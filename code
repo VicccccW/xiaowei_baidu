@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>任务一 百度小薇学院</title>
+</head>
+
+<div id="menu">
+    <h1>网站一级标题</h1>
+        <ul>
+            <li><a href="">导航链接一</a></li>
+            <li><a href="">导航链接二</a></li>
+            <li><a href="">导航链接三</a></li>
+            <li><a href="">导航链接四</a></li>
+        </ul>
+</div>
+
+<div id="content">
+    <div id="paper1" class="article">
+        <h2>文章一级标题</h2>
+        <h2>文章二级标题</h2>
+        <p>文章作者 文章发表时间</p>
+        <p>这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，</p>
+        <p>换行了</p>
+        <p>这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，换行了</p>
+        <p>这是一个很长很长的段落，这是一个很长很长的段落，<a href="http://ife.baidu.com">这里有一个链接连接到http://ife.baidu.com</a>，这是一个很长很长的段落，这是一个很长很长的段落，<b>这里有粗体字</b>，这是一个很长很长的段落，这是一个很长很长的段落。</p>
+        <img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1489156302&di=4451d921bfa24deb2cded05c9a91e1ce&imgtype=jpg&er=1&src=http%3A%2F%2Fimg4.duitang.com%2Fuploads%2Fitem%2F201307%2F14%2F20130714200347_WEzSW.jpeg" alt="this is a pic">
+        <p>这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，换行了</p>
+        <p>这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，<b>这里有粗体字</b>，这是一个很长很长的段落，这是一个很长很长的段落，<a href="http://ife.baidu.com" target="_blank">这里有一个链接点击后打开新窗口连接到http://ife.baidu.com</a>，这是一个很长很长的段落，这是一个很长很长的段落，换行了</p>
+    </div>
+    <div id="paper2" class="article">
+        <h2>另一篇文章一级标题</h2>
+        <h2>文章二级标题</h2>
+        <p>文章作者 文章发表时间</p>
+        <p>这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，</p>
+        <p>换行了</p>
+        <p>这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，换行了</p>
+        <p>这是一个很长很长的段落，这是一个很长很长的段落，<a href="http://ife.baidu.com">这里有一个链接连接到http://ife.baidu.com</a>，这是一个很长很长的段落，这是一个很长很长的段落，<b>这里有粗体字</b>，这是一个很长很长的段落，这是一个很长很长的段落。</p>
+        <img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1489156302&di=4451d921bfa24deb2cded05c9a91e1ce&imgtype=jpg&er=1&src=http%3A%2F%2Fimg4.duitang.com%2Fuploads%2Fitem%2F201307%2F14%2F20130714200347_WEzSW.jpeg" alt="this is a pic">
+        <ul>
+            <li>列表项目一</li>
+            <li>列表项目二</li>
+            <li>列表项目三</li>
+        </ul>
+    </div>
+    <div id="picbox" class="article">
+        <h2>图片</h2>
+        <ul style="list-style: none">
+            <li><span>好看的图片</span><img style="display: block;" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1489156302&di=4451d921bfa24deb2cded05c9a91e1ce&imgtype=jpg&er=1&src=http%3A%2F%2Fimg4.duitang.com%2Fuploads%2Fitem%2F201307%2F14%2F20130714200347_WEzSW.jpeg" alt="this is a pic"></br></li>
+            <li><span>好看的图片</span><img style="display: block;" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1489156302&di=4451d921bfa24deb2cded05c9a91e1ce&imgtype=jpg&er=1&src=http%3A%2F%2Fimg4.duitang.com%2Fuploads%2Fitem%2F201307%2F14%2F20130714200347_WEzSW.jpeg" alt="this is a pic"></br></li>
+            <li><span>好看的图片</span><img style="display: block;" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1489156302&di=4451d921bfa24deb2cded05c9a91e1ce&imgtype=jpg&er=1&src=http%3A%2F%2Fimg4.duitang.com%2Fuploads%2Fitem%2F201307%2F14%2F20130714200347_WEzSW.jpeg" alt="this is a pic"></br></li>
+            <li><span>好看的图片</span><img style="display: block;" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1489156302&di=4451d921bfa24deb2cded05c9a91e1ce&imgtype=jpg&er=1&src=http%3A%2F%2Fimg4.duitang.com%2Fuploads%2Fitem%2F201307%2F14%2F20130714200347_WEzSW.jpeg" alt="this is a pic"></br></li>
+            <li><span>好看的图片</span><img style="display: block;" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1489156302&di=4451d921bfa24deb2cded05c9a91e1ce&imgtype=jpg&er=1&src=http%3A%2F%2Fimg4.duitang.com%2Fuploads%2Fitem%2F201307%2F14%2F20130714200347_WEzSW.jpeg" alt="this is a pic"></br></li>
+            <li><span>好看的图片</span><img style="display: block;" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1489156302&di=4451d921bfa24deb2cded05c9a91e1ce&imgtype=jpg&er=1&src=http%3A%2F%2Fimg4.duitang.com%2Fuploads%2Fitem%2F201307%2F14%2F20130714200347_WEzSW.jpeg" alt="this is a pic"></br></li>
+            <li><span>好看的图片</span><img style="display: block;" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1489156302&di=4451d921bfa24deb2cded05c9a91e1ce&imgtype=jpg&er=1&src=http%3A%2F%2Fimg4.duitang.com%2Fuploads%2Fitem%2F201307%2F14%2F20130714200347_WEzSW.jpeg" alt="this is a pic"></br></li>
+        </ul>
+    </div>
+    <div id="paper3" class="article">
+        <h2>最后一篇文章一级标题</h2>
+        <h2>文章二级标题</h2>
+        <p>文章作者 文章发表时间</p>
+        <ol>
+            <li>排名1</li>
+            <li>排名2</li>
+            <li>排名3</li>
+        </ol> 
+        <span>下面是一个表格，给表格加了一个border=“1”好让你看出是一个表格</span>  
+        <table border="1px">
+           <tr>
+               <th>表头</th>
+               <th>表头</th>
+               <th>表头</th>
+           </tr>
+           <tr>
+              <td>表内容单元格</td>
+              <td>表内容单元格</td>
+              <td><a href="###">操作</a></td>
+          </tr> 
+          <tr>
+              <td>表内容单元格</td>
+              <td>表内容单元格</td>
+              <td><a href="###">操作</a></td>
+          </tr>   
+          <tr>
+              <td>表内容单元格</td>
+              <td>表内容单元格</td>
+              <td><a href="###">操作</a></td>
+          </tr> 
+          <tr>
+              <td>表内容单元格</td>
+              <td>表内容单元格</td>
+              <td><a href="###">操作</a></td>
+          </tr> 
+          <tr>
+              <td>总计</td>
+              <td colspan="2">1000</td>
+          </tr>
+        </table>   
+        <div>
+            <h2>这里以后是一个侧栏，这是侧栏的标题</h2>
+            <h2>侧栏注册窗口标题</h2>
+            <p><span>请输入邮箱地址：</span><input type="text" value="这是一个文本输入框"></p>
+            <p><span>邮箱地址请按要求格式输入</span></p>          
+            <p><span>请输入密码：</span><input type="text" value="这是一个文本输入框"><span>请重复输入密码：<input type="text" value="这是一个文本输入框"></span></p>
+            <p><span>密码请为6-16位英文数字</span></p>
+            <form>
+                <span>性别</span>
+                <input type="radio" name="sex" value="男" checked="">男
+                <input type="radio" name="sex" value="女" >女
+                <span>城市：</span>
+                <select name="city">
+                    <option value="北京" selected="">北京</option>
+                    <option value="南京">南京</option>
+                </select>
+                <span>爱好：</span>
+                <input type="checkbox" name="hobby" value="sports">运动
+                <input type="checkbox" name="hobby" value="art">艺术
+                <input type="checkbox" name="hobby" value="science">科学
+                <span>个人描述：</span>
+                <textarea rows="3" cols="20">这是一个多行输入框，输入您的个人描述</textarea>
+                <input type="submit" value="确认提交">             
+            </form>
+            <span>版权所有c</span>
+        </div>  
+    </div>
+</div>
+
+
+<body>
+</body>
+</html>
