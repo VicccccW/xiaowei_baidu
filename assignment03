@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>任务三 百度小薇学院</title>
+    <style type="text/css">
+
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+#wrap{
+  background: #eee;
+  overflow: hidden;
+}
+
+#wrap div{
+  background: white;
+}
+
+div{
+  border: 1px solid grey;
+  margin: 20px;
+}
+
+.pic{
+  width: 80px;
+  height: 80px;
+}
+
+.left {
+    float: left;
+    width: 200px;
+}
+.right {
+    float: right;
+    width: 120px;
+}
+.main {
+    margin-left: 240px;
+    margin-right: 160px;
+}
+
+    </style>
+<head>
+
+
+
+<body>
+<div id="wrap">
+    <div class="left">
+      <div class="pic"><img src="###" alt="80*80"></div>
+    </div>
+        <div class="right">
+      <div class="pic"><img src="###" alt="80*80"></div>
+      <div class="pic"><img src="###" alt="80*80"></div>
+      <div class="pic"><img src="###" alt="80*80"></div>
+      <div class="pic"><img src="###" alt="80*80"></div>
+    </div>
+    <div class="main">
+      <p>全都是文本</p>
+      <p>全都是文本</p>
+      <p>全都是文本</p>
+      <p>全都是文本</p>
+      <p>全都是文本</p>
+      <p>全都是文本</p>
+    </div>
+
+</div>
+</body>
+<html>
