@@ -1,0 +1,197 @@
+/*all*/
+*{
+  margin: 0px;
+  padding: 0px;
+  line-height: 1.7
+}
+
+h2{ 
+  margin-bottom: 10px;
+}
+
+h3{
+  font-size: 15px;
+  color: #6B7675;
+  margin-buttom: 10px;
+}
+
+h4{
+  font-size: 12px;
+  color: #6B7675;
+  margin-bottom: 10px;
+}
+
+ol{
+  margin-left: 30px;
+  margin-bottom: 20px;
+}
+
+table{
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table, th, td{
+  padding: 3px;
+  border: 1px solid grey;
+  text-align: left;
+}
+
+th{
+  background-color: black;
+  color: white;
+}
+
+/*mainbody*/
+#main{
+  width: 100%;
+}
+
+#content{
+  position: relative;
+}
+
+.white-box{
+  margin-bottom: 20px;
+  padding: 20px;
+  background-color: white;
+  border-right: 2px solid #AFAEAF;
+  border-bottom: 2px solid #AFAEAF;
+}
+
+.article p{
+  text-indent: 2em; /*em是相对单位，2em即现在一个字大小的两倍*/
+}
+
+.article img{
+  height: 50%;
+  width: 50%;
+}
+
+.msg{
+  display: inline-block;
+  color: #999;
+  font-size: 10px;
+  text-align: left;
+}
+
+#top, #buttom{
+  width: 100%;
+}
+
+#top div{
+  display: inline-block;
+}
+
+#top img{
+  padding: 0px;
+  margin-left: 5%;
+  height: 80px;
+}
+
+#content ul{
+  list-style: none;
+}
+
+#picbox ul li{
+  padding: 10px;
+  margin:30px;
+  height: 150px;
+  width: 130px;
+  border: 1px solid grey;
+  font-size: 12px;
+  text-align: center;
+}
+
+#picbox ul li img{
+  margin-top: 10px;
+  height: 120px;
+  width: 130px;
+}
+
+#top{
+  height: 80px;
+  background-color: black;
+  color: white;
+}
+
+#top li{
+  float: left;
+}
+
+#top li a{
+  display: block;
+  padding-right: 30px;
+  color: white;
+  text-decoration: none;
+  font-size: 12px;
+}
+
+#navi{
+  display: inline-block;
+  width: 30%;
+  margin: 30px;
+  float: right;
+}
+
+#content{
+  padding: 20px;
+  background-color: #DEDEDE;
+  position: relative; 
+  padding-right: 480px;
+}
+
+#side{
+  width: 400px;
+  position: absolute;
+  right: 20px;
+  top: 20px;
+}
+
+#bottom{
+  height: 60px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-size: 12px;
+  padding-top:30px;
+}
+
+#picbox{
+  overflow: hidden;
+}
+
+#picbox li{
+  display: inline-block;
+  float: left;
+  margin-right: 10px;
+}
+
+#side h2{
+  font-size: 20px;
+  padding-left: 10px;
+  border-left: 3px solid #CBCACB;
+}
+
+#side-content form div{
+  margin-bottom: 5px;
+}
+
+#side-content div span{
+  margin-right: 10px;
+  display: inline-block;
+  width: 150px;
+  text-align: right;
+}
+
+#subbtn{
+  width:100%;
+  height: 40px;
+  background: #3355D0;
+  color: white;
+  border-radius: 10px;
+}
+
+#psst{
+  float: left;
+}
