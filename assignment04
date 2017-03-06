@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>任务四 百度小薇学院</title>
+    <link type="text/css" rel="stylesheet" href="css/assignment04.css">
+</head>
+
+<body>
+
+<div id="wrapper">
+	<div id="box">
+	<div id="radius-1" class="radius"></div>
+	<div id="radius-2" class="radius"></div>
+	</div>
+</div>
+
+</body>
+</html>
